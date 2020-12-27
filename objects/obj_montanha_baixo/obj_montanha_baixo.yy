@@ -3,7 +3,7 @@
     "name": "spr_montanha_baixo",
     "path": "sprites/spr_montanha_baixo/spr_montanha_baixo.yy",
   },
-  "solid": false,
+  "solid": true,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,

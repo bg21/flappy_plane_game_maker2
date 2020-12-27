@@ -3,7 +3,7 @@
     "name": "spr_montanha_cima",
     "path": "sprites/spr_montanha_cima/spr_montanha_cima.yy",
   },
-  "solid": false,
+  "solid": true,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,

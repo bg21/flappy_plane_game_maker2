@@ -24,6 +24,8 @@
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_aviao","path":"objects/obj_aviao/obj_aviao.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":32,"eventType":9,"collisionObjectId":null,"parent":{"name":"obj_aviao","path":"objects/obj_aviao/obj_aviao.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"obj_aviao","path":"objects/obj_aviao/obj_aviao.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_montanha_cima","path":"objects/obj_montanha_cima/obj_montanha_cima.yy",},"parent":{"name":"obj_aviao","path":"objects/obj_aviao/obj_aviao.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_montanha_baixo","path":"objects/obj_montanha_baixo/obj_montanha_baixo.yy",},"parent":{"name":"obj_aviao","path":"objects/obj_aviao/obj_aviao.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
