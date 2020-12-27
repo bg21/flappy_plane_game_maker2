@@ -1,5 +1,8 @@
 {
   "resources": [
+    {"id":{"name":"spr_aviao","path":"sprites/spr_aviao/spr_aviao.yy",},"order":0,},
+    {"id":{"name":"obj_aviao","path":"objects/obj_aviao/obj_aviao.yy",},"order":0,},
+    {"id":{"name":"background","path":"sprites/background/background.yy",},"order":1,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
