@@ -2,7 +2,7 @@
 // You can write your code in this editor
 
 //ganhando pontos
-pontos += 0.1;
+pontos += 0.1 * global.level;
 
 if(pontos >= proximoLevel){
 	
