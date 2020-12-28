@@ -3,4 +3,9 @@
 
 //ganhando pontos
 pontos += 0.1;
-show_debug_message(pontos);
+
+if(pontos >= proximoLevel){
+	
+	global.level++;
+	proximoLevel *= 2;
+}
