@@ -4,7 +4,7 @@ alarm[0] = room_speed;
 
 //ganhando pontos
 pontos = 0;
-proximoLevel = 10;
+proximoLevel = 100;
 
 global.level = 1;
 

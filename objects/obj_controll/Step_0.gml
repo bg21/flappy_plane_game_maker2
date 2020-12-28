@@ -14,4 +14,4 @@ var backgroundRoom = layer_get_id("Background");
 layer_hspeed(backgroundRoom, -2 -global.level);
 
 var backgroundRoomChao = layer_get_id("Chao");
-layer_hspeed(backgroundRoomChao, -2 -global.level);
+layer_hspeed(backgroundRoomChao, -4 -global.level);
