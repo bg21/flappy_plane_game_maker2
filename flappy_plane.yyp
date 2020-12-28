@@ -9,6 +9,8 @@
     {"id":{"name":"spr_montanha_baixo","path":"sprites/spr_montanha_baixo/spr_montanha_baixo.yy",},"order":3,},
     {"id":{"name":"fnt_fonte1","path":"fonts/fnt_fonte1/fnt_fonte1.yy",},"order":0,},
     {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},"order":15,},
+    {"id":{"name":"spr_level","path":"sprites/spr_level/spr_level.yy",},"order":4,},
+    {"id":{"name":"obj_level","path":"objects/obj_level/obj_level.yy",},"order":4,},
     {"id":{"name":"obj_controll","path":"objects/obj_controll/obj_controll.yy",},"order":3,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
