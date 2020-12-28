@@ -11,7 +11,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "snd_fundo.mp3",
-  "duration": 80.25318,
+  "duration": 146.421326,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",
