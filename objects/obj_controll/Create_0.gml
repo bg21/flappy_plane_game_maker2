@@ -7,3 +7,5 @@ pontos = 0;
 proximoLevel = 10;
 
 global.level = 1;
+
+audio_play_sound(snd_fundo, 1, true);

@@ -1,5 +1,7 @@
 {
   "resources": [
+    {"id":{"name":"snd_fundo","path":"sounds/snd_fundo/snd_fundo.yy",},"order":0,},
+    {"id":{"name":"snd_level","path":"sounds/snd_level/snd_level.yy",},"order":1,},
     {"id":{"name":"obj_montanha_cima","path":"objects/obj_montanha_cima/obj_montanha_cima.yy",},"order":1,},
     {"id":{"name":"spr_aviao","path":"sprites/spr_aviao/spr_aviao.yy",},"order":0,},
     {"id":{"name":"obj_aviao","path":"objects/obj_aviao/obj_aviao.yy",},"order":0,},
@@ -12,6 +14,7 @@
     {"id":{"name":"spr_level","path":"sprites/spr_level/spr_level.yy",},"order":4,},
     {"id":{"name":"obj_level","path":"objects/obj_level/obj_level.yy",},"order":4,},
     {"id":{"name":"obj_controll","path":"objects/obj_controll/obj_controll.yy",},"order":3,},
+    {"id":{"name":"spr_chao","path":"sprites/spr_chao/spr_chao.yy",},"order":5,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
